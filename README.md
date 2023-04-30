@@ -1,6 +1,6 @@
 # Manipuri-English-Comparable-Corpus
 
-This repository contains the Manipuri-English Comparable Corpus and . The corpus is intended for use in cross-lingual studies for the language pair.
+This repository contains the Manipuri-English Comparable Corpus and MT evaluation dataset. The corpus is intended for use in cross-lingual studies for the language pair.
 
 
 If you use this corpus in your research, please cite the following papers:
