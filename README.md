@@ -14,4 +14,4 @@ The Manipuri-English Comparable Corpus is licensed under the Creative Commons At
 
 
 Contact
-If you have any questions or comments about the Manipuri-English Comparable Corpus, please contact Laitonjam Lenin at lenin.laitonjam@manipuruniv.ac.in or Sanasam Ranbir Singh at ranbir.sanasam@manipuruniv.ac.in.
+If you have any questions or comments about the Corpus, please contact Laitonjam Lenin at lenin.lai17@gmail.com.
