@@ -6,8 +6,8 @@ This repository contains the Manipuri-English Comparable Corpus and MT evaluatio
 If you use this corpus in your research, please cite the following papers:
 
 
-1. Laitonjam, Lenin, and Sanasam Ranbir Singh. "Manipuri–English comparable corpus for cross-lingual studies." Language Resources and Evaluation 57.1 (2023): 377-413.
-2. Laitonjam, Lenin, and Sanasam Ranbir Singh. "Manipuri-English machine translation using comparable corpus." Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021). 2021.
+1. Lenin Laitonjam, and Sanasam Ranbir Singh. "Manipuri–English comparable corpus for cross-lingual studies." Language Resources and Evaluation 57.1 (2023): 377-413.
+2. Lenin Laitonjam, and Sanasam Ranbir Singh. "Manipuri-English machine translation using comparable corpus." Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021). 2021.
 
 License
 The Manipuri-English Comparable Corpus is licensed under the Creative Commons Attribution 4.0 International License. You are free to use, share, and adapt the corpus for any purpose, as long as you give appropriate credit to the original authors.
