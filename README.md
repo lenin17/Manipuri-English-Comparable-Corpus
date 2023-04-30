@@ -1,14 +1,13 @@
 # Manipuri-English-Comparable-Corpus
 
-This repository contains the Manipuri-English Comparable Corpus. The corpus is intended for use in cross-lingual studies and natural language processing tasks such as machine translation, text classification, and information retrieval.
+This repository contains the Manipuri-English Comparable Corpus and . The corpus is intended for use in cross-lingual studies for the language pair.
 
 
-
-Citation
-If you use this corpus in your research, please cite the following paper:
+If you use this corpus in your research, please cite the following papers:
 
 
-Laitonjam, Lenin, and Sanasam Ranbir Singh. "Manipuri–English comparable corpus for cross-lingual studies." Language Resources and Evaluation 57.1 (2023): 377-413.
+1. Laitonjam, Lenin, and Sanasam Ranbir Singh. "Manipuri–English comparable corpus for cross-lingual studies." Language Resources and Evaluation 57.1 (2023): 377-413.
+2. Laitonjam, Lenin, and Sanasam Ranbir Singh. "Manipuri-English machine translation using comparable corpus." Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021). 2021.
 
 License
 The Manipuri-English Comparable Corpus is licensed under the Creative Commons Attribution 4.0 International License. You are free to use, share, and adapt the corpus for any purpose, as long as you give appropriate credit to the original authors.
